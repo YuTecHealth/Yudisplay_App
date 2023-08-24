@@ -4,4 +4,6 @@ YuBelt_DFU_20220912_30s_1KHz_no_sleep
 CardioBird_v1.4
 CardioBird_v1.5
 CardioBird_v1.6
+CardioBird_v1.6_125Hz.zip
+CardioBird_v1.6_250Hz.zip
 CardioBird_v1.7
