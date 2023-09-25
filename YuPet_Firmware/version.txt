@@ -7,3 +7,4 @@ CardioBird_v1.6
 CardioBird_v1.6_125Hz
 CardioBird_v1.6_250Hz
 CardioBird_v1.7
+CardioBird_v1.8
