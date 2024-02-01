@@ -2,5 +2,4 @@ CardioBird_v1.0
 CardioBird_v2.0
 CardioBird_v2.0.1
 CardioBird_v2.1
-CardioBird_v2.1.2_crash
 CardioBird_v2.2
